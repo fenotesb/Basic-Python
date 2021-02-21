@@ -31,7 +31,7 @@ def usePopulation(aState):
     return population
 
 def main():
-    Newyork = State("Newyork", 19862512)
+    Newyork = State("NewYork", 19862512)
     Texas = State("Texas", 26424712)
     Newyork.display()
     Texas.display()
